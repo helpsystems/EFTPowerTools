@@ -1,0 +1,6 @@
+.vscode/launch.json
+.vscode/
+data/
+temp/
+logs/
+output/
